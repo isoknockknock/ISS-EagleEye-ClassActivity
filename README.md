@@ -1,6 +1,7 @@
 # Mitsakes found
 
 In Line 1, ':' missing after is_narc(n)
+
 For variable declaration of num_str and num_digits, '==' should be '='
 In sum_of_powers, '***' should be '**'
 ':' missing after print_narcis_numbers
